@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Rityanshu%20Aryan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%26%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Rityanshu%20Aryan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%26%20AI%20Engineer&descAlignY=55&descSize=18&v=2" width="100%"/>
 
 <a href="https://github.com/RityanshuAryan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7DD3FCFF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=B.Tech+in+AI+%26+Data+Science;Python+%7C+Machine+Learning+%7C+Data+Science;Building+ML+and+web+projects+one+commit+at+a+time" alt="Typing SVG" />
@@ -43,8 +43,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RityanshuAryan&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RityanshuAryan&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RityanshuAryan&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&v=2" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RityanshuAryan&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&v=2" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=RityanshuAryan&theme=nord&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
@@ -55,7 +55,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RityanshuAryan&theme=nord&no-frame=true&no-bg=true&margin-w=12" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RityanshuAryan&theme=nord&no-frame=true&no-bg=true&margin-w=12&v=2" alt="Trophies"/>
 </div>
 
 <br/>
@@ -63,7 +63,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RityanshuAryan&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RityanshuAryan&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&v=2" alt="Activity Graph"/>
 </div>
 
 <br/>
